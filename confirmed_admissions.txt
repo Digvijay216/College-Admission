@@ -1,0 +1,28 @@
+========================================
+WCE SANGLI ADMISSION RECORD
+Name: Gujar Digvijay Dilip
+Application ID: App25051
+College: Walchand College of Engineering, Sangli
+Branch: Computer Science and Engineering (Unaided)
+Exam: MHT-CET
+Category: OPEN
+Percentile: 99.55
+Admission Year: 2025
+Sample Cutoff: 98.80
+Seat Status: CONFIRMED (SIMULATION)
+========================================
+
+========================================
+WCE SANGLI ADMISSION RECORD
+Name: Kadam Siddhant Satesh
+Application ID: APP25022
+College: Walchand College of Engineering, Sangli
+Branch: Information Technology (Unaided)
+Exam: JEE Main(No categoryChoice)
+Category: OPEN
+Percentile: 98.9600
+Admission Year: 2025
+Sample Cutoff: 97.8826
+Seat Status: CONFIRMED (SIMULATION)
+========================================
+
